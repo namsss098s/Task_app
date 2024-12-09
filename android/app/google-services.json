@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873752901296",
+    "firebase_url": "https://final-exam-b5045-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "final-exam-b5045",
+    "storage_bucket": "final-exam-b5045.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873752901296:android:e7edcd65b922c115ceed75",
+        "android_client_info": {
+          "package_name": "com.example.final_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873752901296-35tvprplmslsr1vkobn7gpkcc4nja0li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqa3fMCqEgNbaGmyHnX8OzNzu37J0_B4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873752901296-35tvprplmslsr1vkobn7gpkcc4nja0li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
